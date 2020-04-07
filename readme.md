@@ -1,6 +1,6 @@
-##HI I AM TO KA HO , SID 1155125547
+#HI I AM TO KA HO , SID 1155125547
 
-# I AM FROM NA
+### I AM FROM NA
 GITHUB is a good thing, *everyone worth having it*
 
 **table**
