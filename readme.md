@@ -1,6 +1,6 @@
-#HI I AM TO KA HO , SID 1155125547
+# CSCI3251 Github Project
 
-### I AM FROM NA
+### i am tokaho from NA
 GITHUB is a good thing, *everyone worth having it*
 
 **table**
@@ -10,7 +10,9 @@ i am i table | with nothing
 2|2
 3|3
 
-###git is hard to use
+
+### git is hard to use ?
+
 - [ ] hard
 - [ ] very hard
 - [x] super hard
